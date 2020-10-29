@@ -42,7 +42,7 @@
               <columns>
                 <TableColumn fx:id="entrieName" prefWidth="75.0" text="Name" />
                 <TableColumn fx:id="entrieMark" prefWidth="75.0" text="Mark" />
-                  <TableColumn fx:id="deleteEntrie" prefWidth="75.0" text="Delete" />
+                  <TableColumn fx:id="entrieDelete" prefWidth="75.0" text="Delete" />
               </columns>
             </TableView>
          </children>
